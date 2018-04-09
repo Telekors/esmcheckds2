@@ -207,9 +207,9 @@ Manual install
 Configuration
 -------------
 
-This script requires a '.mfe\_saw.ini' file the local directory or in your 
-home directory. This file contains sensitive clear text credentials for 
-the McAfee ESM so it is important it be protected. 
+This script requires a '.mfe\_saw.ini' file the local directory \(\%AppData\%\) or in your 
+home directory. **This file contains sensitive clear text credentials for 
+the McAfee ESM so it is important it be protected.**
 
 It looks like this:
 
