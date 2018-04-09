@@ -216,9 +216,14 @@ It looks like this:
 ::
 
     [esm]
-    esmhost=10.0.0.1
     esmuser=NGCP
-    esmpass=SuppaSecret
+    esm_user=NGCP
+    esmpass=
+    esm_passwd=
+    esmhost=10.10.10.10
+    esm_host=10.10.10.10
+    dsconfigdir=dsconf
+    ds_dir=dsconf
 
 An example mfe-saw.ini is available in the download or at:
 https://github.com/andywalden/esmcheckds2/blob/master/mfe\_saw.ini
